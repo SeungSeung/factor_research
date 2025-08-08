@@ -5,13 +5,7 @@ from tqdm import tqdm
 import plotly.express as px
 
 warnings.filterwarnings('ignore')
-import pandas as pd
-import numpy as np
-import warnings
-from tqdm import tqdm
-import plotly.express as px
 
-warnings.filterwarnings('ignore')
 
 ###논문 용 러이브러리 independent sort,dependent sort 구현
 class backtest:
